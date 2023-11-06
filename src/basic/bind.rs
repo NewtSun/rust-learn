@@ -1,3 +1,9 @@
+/*
+@Author : NewtSun
+@Time : 2023/11/6 15:39
+@Description : 绑定
+*/
+
 pub fn bind() {
     let _x = 5;
     let _y = 10;
